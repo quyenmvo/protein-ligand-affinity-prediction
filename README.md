@@ -17,13 +17,13 @@ This project leverages advanced machine learning techniques to accurately predic
 
 Deep learning is a subset of artificial intelligence (AI) and machine learning that focuses on creating and training artificial neural networks to perform tasks similar to how the human brain processes and learns information.
 
-![Deep Learning Model Architecture](URL-of-deep-learning-image)
+![Deep Learning Model Architecture](images/DL-architecture.png)
 
 ### Deep Kernel Learning
 
 Deep kernel learning combines the strengths of deep learning and kernel methods. It uses neural networks to learn hierarchical representations of data while leveraging kernel functions to handle nonlinear patterns.
 
-![Deep Kernel Learning Model Architecture](URL-of-deep-kernel-learning-image)
+![Deep Kernel Learning Model Architecture](images/DKL-architecture.png)
 
 ## Experimental Results
 
